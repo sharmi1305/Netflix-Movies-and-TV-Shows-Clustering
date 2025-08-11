@@ -3,7 +3,9 @@ Netflix Movies and TV Shows Clustering
 
 📌 Project Overview
 This project focuses on clustering Netflix movies and TV shows using unsupervised machine learning.
-The aim is to group similar content based on genre, rating, duration, and other attributes, enabling better recommendations and content discovery.
+The aim is to group similar content based on genre, rating, duration, and other attributes, 
+enabling better recommendations and content discovery.
+
 
 Key Goals:
 
