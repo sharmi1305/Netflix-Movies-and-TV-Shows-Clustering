@@ -30,17 +30,28 @@ The dataset contains Netflix movies and TV shows with the following columns:
 
 Column Name	Description
 
-show_id	Unique identifier for each show
-type	Movie or TV Show
-title	Title of the content
-director	Director name (can be missing)
-cast	Main cast (can be missing)
-country	Country of production
-date_added	Date added to Netflix
-release_year	Year of release
-rating	Content rating (e.g., PG, TV-MA)
-duration	Duration in minutes or seasons
-listed_in	Genres/categories
+show_id	Unique identifier for each show,
+
+type	Movie or TV Show,
+
+title	Title of the content,
+
+director	Director name (can be missing),
+
+cast	Main cast (can be missing),
+
+country	Country of production,
+
+date_added	Date added to Netflix,
+
+release_year	Year of release,
+
+rating	Content rating (e.g., PG, TV-MA),
+
+duration	Duration in minutes or seasons,
+
+listed_in	Genres/categories,
+
 description	Short description
 
 🛠 Data Processing
